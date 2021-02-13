@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 local-repo change  
-no-first branch change
+conflict branch change
