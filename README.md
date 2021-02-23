@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 local-repo change  
-github-on-update this edit
+github-on-update on edit
 
